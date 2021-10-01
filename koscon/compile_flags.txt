@@ -1,0 +1,3 @@
+-D_BUILD_LIBC
+-I..
+-I/media/sf_D_DRIVE/kolibri-svn/ktcc.r9209/trunk/libc.obj/include
